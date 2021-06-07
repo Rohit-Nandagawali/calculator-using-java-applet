@@ -133,7 +133,7 @@ public class calculator extends Applet
                 s1=label3.getText()+s;
 		label3.setText(s1);
 		
-                for such project subcribe my youtube channel CODEPROGRAMM//comment thid to remove error
+                for such project subcribe my youtube channel CODEPROGRAMM//comment this to remove error
 
             }
         });
@@ -169,7 +169,7 @@ public class calculator extends Applet
                 s1=label3.getText()+s;
 		label3.setText(s1);
 
-                for such project subcribe my youtube channel CODEPROGRAMM//comment thid to remove error
+                for such project subcribe my youtube channel CODEPROGRAMM//comment this to remove error
 		
             }
         });
