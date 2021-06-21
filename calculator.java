@@ -133,7 +133,7 @@ public class calculator extends Applet
                 s1=label3.getText()+s;
 		label3.setText(s1);
 		
-                for such project subcribe my youtube channel CODEPROGRAMM//comment this to remove error
+             //   for such project subcribe my youtube channel CODEPROGRAMM//comment this to remove error
 
             }
         });
@@ -169,7 +169,7 @@ public class calculator extends Applet
                 s1=label3.getText()+s;
 		label3.setText(s1);
 
-                for such project subcribe my youtube channel CODEPROGRAMM//comment this to remove error
+               // for such project subcribe my youtube channel CODEPROGRAMM//comment this to remove error
 		
             }
         });
@@ -301,7 +301,7 @@ equal.addActionListener(new ActionListener(){
 
 }
 //-----------------------***--------------------------
--- End of program 
---for such projects subscribe CODEPROGRAMM and follow me on Instagram and github 
--- Make sure You have learned someting new from this project,If you didn't learned anything from this project then you have just waste your time for showing off to your teacher or friends.Doing projects means applying what you have learned .This is only way to test yourself.-Your Friend, Rohit Nandagawali ,if you are having problem to understand just make a call ->7038372967 or message me Whatsapp.
--- before commenting above lines please read one time 
+//-- End of program 
+//--for such projects subscribe CODEPROGRAMM and follow me on Instagram and github
+//-- Make sure You have learned someting new from this project,If you didn't learned anything from this project then you have just waste your time for showing off to your teacher or friends.Doing projects means applying what you have learned .This is only way to test yourself.-Your Friend, Rohit Nandagawali ,if you are having problem to understand just make a call ->7038372967 or message me Whatsapp.
+//-- before commenting above lines please read one time 
